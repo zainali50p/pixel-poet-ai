@@ -1,0 +1,13 @@
+# Python Junk
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Javascript Junk
+node_modules/
+.next/
+dist/
+build/
+.DS_Store
